@@ -1,6 +1,6 @@
 # Courses
 ___
-* [Courses /(this page /)](courses.md)
+* [Courses \(this page \)](courses.md)
   * [STEM 08](courses/stem08/stem08.md)
   * [STEM 10](courses/stem10/stem10.md)
   * [STEM 11/12](courses/stem1112/stem1112.md)
