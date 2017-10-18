@@ -24,12 +24,12 @@
 			},
 			"background": {
 				"color": "#09F"
+			},
+		    	"theme-gestalt": {
+        			"logo": "/assets/logo.png",
+        			"favicon": "/assets/favicon.png",
+        			"excludeDefaultStyles": true
 			}
-		    "theme-gestalt": {
-        		"logo": "/assets/logo.png",		// path to the logo file to use in the sidebar
-        		"favicon": "/assets/favicon.png",	// path to your favicon
-        		"excludeDefaultStyles": true		// excludes the pre-compiled theme css in favor of your custom css
-    }
 		}
 	}
 }
