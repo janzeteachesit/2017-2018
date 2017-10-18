@@ -7,7 +7,7 @@
 		"mobi": "styles/all.css",
 		"epub": "styles/all.css"
 	},
-	"plugins": ["scripts", "image-wrapper", "autocover"],
+	"plugins": ["scripts", "image-wrapper", "autocover", "katex"],
 	"pluginsConfig": {
 		"scripts": {
 			"files": ["./scripts/local-script.js"]
