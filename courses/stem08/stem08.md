@@ -1,6 +1,6 @@
 # STEM 08
 ___
-- [GC](https://classroom.google.com/u/0/c/NzQyNjk4NDA2Nlpa)
+- [GC](https://classroom.google.com/u/0/c/NzQyNjk4NDA2Nlpa) - only works for students
 
 1. Project 01 - Paper Airplanes
 2. Project 02 - BristleBots
