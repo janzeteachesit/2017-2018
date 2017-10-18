@@ -13,5 +13,5 @@ ___
   * [AP CSP](courses/apcsp/apcsp.md)
   * [AP CS A](courses/apcsa/apcsa.md)
   * [Computational Thinking](courses/ct/ct.md)
-*[About](about.md)
+* [About](about.md)
 
