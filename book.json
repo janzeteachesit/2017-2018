@@ -7,7 +7,7 @@
 		"mobi": "styles/all.css",
 		"epub": "styles/all.css"
 	},
-	"plugins": ["scripts", "image-wrapper", "autocover", "katex", "theme-gestalt", "-theme-default", "styles-sass-fix"],
+	"plugins": ["scripts", "image-wrapper", "autocover", "katex"],
 	"pluginsConfig": {
 		"scripts": {
 			"files": ["./scripts/local-script.js"]
@@ -24,12 +24,8 @@
 			},
 			"background": {
 				"color": "#09F"
-			},
-		    	"theme-gestalt": {
-        			"logo": "/assets/logo.png",
-        			"favicon": "/assets/favicon.png",
-        			"excludeDefaultStyles": true
 			}
+
 		}
 	}
 }
