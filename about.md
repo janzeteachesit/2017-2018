@@ -1,6 +1,6 @@
 # About
 ___
-[Where to find me](https://github.com/janzeteachesit/janzeteachesit.github.io/profiles.md) 
+[Where to find me](https://github.com/janzeteachesit/janzeteachesit.github.io/blob/master/profiles.md) 
 
 ## Other Writings
 ### "janzeteachesit.github.io"
