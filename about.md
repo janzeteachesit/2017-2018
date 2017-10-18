@@ -8,10 +8,20 @@ ___
 ### janzeteachesit.github.io
 > or What have I gotten myself into?
 - [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io), [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts
+
 ### The Designed Classroom
 > Re-framing Planning and Teaching as a Design Challenge
 Documenting what I learn as I attempt to use Design Thinking, Agile and Lean methodologies, Blended Classroom and Social Constructivist paradigms, Project-Based Learning and Going Gradeless to design, iterate, teach and assess during the 2016–2017 school year. 
 - [The GitHub Repository](https://github.com/janzeteachesit/redefining-the-classroom/), [As a GitBook](https://janzeteachesit.gitbooks.io/redefining-the-classroom/content/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/redefining-the-classroom/), even Drafts, [On Medium](https://medium.com/designed-classroom): (not everything is published, tho')
+
+### Variables, Loops and Choice! Oh My!
+> Learning and Teaching Code.org's CS in Algebra
+- [The GitHub Repository](https://github.com/janzeteachesit/cs-in-algebra/), [As a GitBook](https://janzeteachesit.gitbooks.io/cs-in-algebra/content/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/cs-in-algebra/), even Drafts
+
+### Elementary Inquiry
+> Attempting to answer the 2016-2017 question:
+> How does a project-based STEM learning environment increase authentic student engagement in Elementary Math, Science and the new Design and Coding curriculum?
+- [The GitHub Repository](https://github.com/janzeteachesit/elementary-inquiry/), [As a GitBook](https://janzeteachesit.gitbooks.io/elementary-inquiry/content/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/elementary-inquiry/), even Drafts
 
 ## Tools
 - [GitBook](tools/gitbook.md)
