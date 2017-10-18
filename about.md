@@ -38,6 +38,6 @@ I will document the different strands of learning that I engage in. Here's a wee
 - [GitHub](https://github.com/)
   - [GitHub To Do](https://github.com/janzeteachesit#todo)
   - [GitHub Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Ajanzeteachesit)
-
+- [GitHub Pages](tools/gh_pages.md)
 ## Misc.
 - [Another cool way](sstory.html)
