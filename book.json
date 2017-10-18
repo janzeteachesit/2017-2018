@@ -7,7 +7,7 @@
 		"mobi": "styles/all.css",
 		"epub": "styles/all.css"
 	},
-	"plugins": ["scripts", "image-wrapper", "autocover", "katex"],
+	"plugins": ["scripts", "image-wrapper", "autocover", "katex", "theme-gestalt", "-theme-default", "styles-sass-fix"],
 	"pluginsConfig": {
 		"scripts": {
 			"files": ["./scripts/local-script.js"]
@@ -25,6 +25,11 @@
 			"background": {
 				"color": "#09F"
 			}
+		    "theme-gestalt": {
+        		"logo": "/assets/logo.png",		// path to the logo file to use in the sidebar
+        		"favicon": "/assets/favicon.png",	// path to your favicon
+        		"excludeDefaultStyles": true		// excludes the pre-compiled theme css in favor of your custom css
+    }
 		}
 	}
 }
