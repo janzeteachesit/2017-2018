@@ -98,3 +98,8 @@ hr {
     -moz-column-rule: 2px outset #ffffff; /* Firefox */
     column-rule: 2px outset #ffffff;
 }
+
+.pagebreak
+{
+    page-break-after: always;
+}
