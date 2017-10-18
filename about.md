@@ -5,7 +5,7 @@ ___
 
 
 ## Other Writings
-### "janzeteachesit.github.io"
+### janzeteachesit.github.io
 - [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io), [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts, [raw notes and docs - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVckNKU2hhM09mbkk)
 
 ## Tools
