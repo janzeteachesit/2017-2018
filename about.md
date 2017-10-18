@@ -7,7 +7,7 @@ ___
 ## Other Writings
 ### janzeteachesit.github.io
 > or What have I gotten myself into?
-- [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io), [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts
+- [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io), [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/), even Drafts, [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Draft, [\_posts - Diary, Link Dump](https://github.com/janzeteachesit/janzeteachesit.github.io/tree/master/_posts)
 
 ### The Designed Classroom
 > Re-framing Planning and Teaching as a Design Challenge
