@@ -13,5 +13,8 @@ ___
   * [AP CSP](courses/apcsp/apcsp.md)
   * [AP CS A](courses/apcsa/apcsa.md)
   * [Computational Thinking](courses/ct/ct.md)
+- [Inquiry](inquiry/inquiry.md)
+  - [Getting Started with 3D - Elementary](elem-3d.md)
+  - [Getting Started with 3D - Robotics](elem-robotics.md)
 * [About](about.md)
 
