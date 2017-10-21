@@ -7,5 +7,6 @@ ___
 3. [Project 03 - Water](project03-water.md)
 
 ## Resources and Links
+
+- [STEM08 - Janze 2017-2018 Getting Started - GDoc](https://docs.google.com/document/d/1CTCJLV357EKNgjLARHTHD2QVP2Q-TQndu0O7TNFSWOI/edit#)
 - [STEM08-Janze 20172018](https://docs.google.com/document/d/1iipwSszW8OeVG1J6itlpHHfy7mD8oZEGqnxobl0IqfI/edit#)
-- [STEM08 - Janze 2017-2018 Getting Started](https://docs.google.com/document/d/1CTCJLV357EKNgjLARHTHD2QVP2Q-TQndu0O7TNFSWOI/edit#)
