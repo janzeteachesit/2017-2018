@@ -8,6 +8,6 @@
 - [Stuff we're asked a lot](https://glitch.com/faq)
 
 ### Make (and host) a website
-Like [janze-test-website](https://janze-test-website.glitch.me).  Check out [my profile](https://glitch.com/@janzeteachesit).
+Like [janze-test-website](https://janze-test-website.glitch.me).  [janzeteachesit's profile](https://glitch.com/@janzeteachesit) at Glicth.
 
 ### Make (and host) an app
