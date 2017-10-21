@@ -11,3 +11,7 @@
 Like [janze-test-website](https://janze-test-website.glitch.me).  [janzeteachesit's profile](https://glitch.com/@janzeteachesit) at Glicth.
 
 ### Make (and host) an app
+
+
+## Resources and Links
+- [OneTab Glitch Fog Creek Website - GDocs](https://docs.google.com/document/d/1oyV3NsKgCUehMw9-6aWwuAaG_GGiPkSa9phENViXaS8/edit?usp=sharing) Notes. Private; sorry.
