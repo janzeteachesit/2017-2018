@@ -26,4 +26,4 @@
 ### janzeteachesit
 - [janzeteachesit Profile -BlocksCad](https://www.blockscad3d.com/community/profile)
 - [OneTab TinkerCad BlocksCad - GDoc](https://docs.google.com/document/d/19hJCpTa0NG8YkACTyweV3iceKo37WqTDhLwn8obnF18/edit?usp=sharing)
-- [TinkerCad - GFolder](https://drive.google.com/drive/folders/0ByvJF_ceaiU9SEk2WE1ETk9xNVE?usp=sharing)Private; sorry. 
+- [TinkerCad - GFolder](https://drive.google.com/drive/folders/0ByvJF_ceaiU9SEk2WE1ETk9xNVE?usp=sharing) Private; sorry. 
