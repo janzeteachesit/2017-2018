@@ -5,9 +5,9 @@ ___
 - [Introduction](README.md)
 - [Courses](courses.md)
   - [STEM 08](courses/stem08/stem08.md)
-    1. [Project 01 - Paper Airplanes](project01-paperplanes.md)
-    2. [Project 02 - BristleBots](project02-britlebots.md)
-    3. [Project 03 - Water](project03-water.md)
+    1. [Project 01 - Paper Airplanes](courses/stem08/project01-paperplanes.md)
+    2. [Project 02 - BristleBots](courses/stem08/project02-britlebots.md)
+    3. [Project 03 - Water](courses/stem08/project03-water.md)
   - [STEM 10](courses/stem10/stem10.md)
   - [STEM 11/12](courses/stem1112/stem1112.md)
   - [Graphics](courses/graphics/graphics.md)
@@ -16,8 +16,6 @@ ___
   - [AP CSP](courses/apcsp/apcsp.md)
   - [AP CS A](courses/apcsa/apcsa.md)
   - [Computational Thinking](courses/ct/ct.md)
-    - Tools
-      
 - [Inquiry](inquiry/inquiry.md)
   - [Getting Started with 3D - Elementary](inquiry/elem-3d.md)
   - [Getting Started with Robotics - Elementary](inquiry/elem-robotics.md)
