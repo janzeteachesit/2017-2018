@@ -9,6 +9,6 @@
 - https://docs.google.com/document/d/1hj6hFLAqv2kzL3lXIVaz7ewQwcJJaenRAOUojCUsSjQ/edit | STEM08 - ADSTContent-Holistic - Google Docs
 - https://docs.google.com/document/d/1O7pRzN6ahKunz5jf-WldnCai70gbrPlu6gA46goTFOs/edit | STEM08 - CoreCompetencies-Holistic - Google Docs
 - https://docs.google.com/document/d/1SpODlEvV6kgDZS_YZVy5R1VmANy0jvd078dZO1IMhao/edit | STEM08 - JrStem-Holistic - Google Docs
-
+- https://docs.google.com/document/d/1AkRKn5E9oNGcZKh4vwOLR3HFtC945vzTN9_oxEctjSs/edit | STEM08 - STEM08 Blank Rubric - Google Docs
 ## Notes, Resources and Links
 - [STEM08 - GFolder](https://drive.google.com/open?id=0ByvJF_ceaiU9dWNQQ2dtVlZvU2M)
