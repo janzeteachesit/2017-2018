@@ -19,6 +19,7 @@ ___
 - [Inquiry](inquiry/inquiry.md)
   - [Getting Started with 3D - Elementary](inquiry/elem-3d.md)
   - [Getting Started with Robotics - Elementary](inquiry/elem-robotics.md)
+  - [CSL/Rubrics/New Curriculum](inquiry/csl-rubrics.md)
 - [About](about.md)
   - [Tools](tools/tools.md)
     - [GitBook](tools/gitbook.md)
