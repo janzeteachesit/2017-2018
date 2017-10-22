@@ -24,5 +24,5 @@ ___
     - [GitBook](tools/gitbook.md)
     - [GitHub Pages](tools/gh_pages.md)
     - [Glitch](tools/glitch.md)
-  - [Another cool way](sstory.html)
+  <!-- - [Another cool way](sstory.html)  -->
 
