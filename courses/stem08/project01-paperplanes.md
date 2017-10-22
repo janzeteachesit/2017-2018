@@ -7,7 +7,9 @@ Welcome to STEM!
 The purpose of this first project is to introduce you to how our STEM works.  By the end of this you should be familiar with the basic stages of a project, as well as the tools we commonly use.
 ### The Project 
 You must design a paper airplane that flies as far as possible on a single throw.  The plane must be made of a single piece of  8.5” x 11” printer paper.  You can modify the paper in any way you want with cuts and folds, but you may not add anything to the paper (weights, tape, etc.). 
+
 ![Paper Airplane By Ushakaron (Own work) [CC0], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paper_Airplane.png/229px-Paper_Airplane.png)
+
 ###### src: https://upload.wikimedia.org/wikipedia/commons/c/c4/Paper_Airplane.png
 ### Teams
 You will be working in teams of three.
