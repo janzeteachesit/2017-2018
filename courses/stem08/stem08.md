@@ -1,6 +1,7 @@
 # STEM 08 Janze
 ## 2017-2018
 ___
+## [Course Outline](https://drive.google.com/open?id=0ByvJF_ceaiU9VEtYdWZ2X1hZY3c)
 ## Projects
 1. [Project 01 - Paper Airplanes](project01-paperplanes.md)
 2. [Project 02 - BristleBots](project02-britlebots.md)
