@@ -14,7 +14,7 @@ __[Mechanical Focus](https://docs.google.com/document/d/1oDJ4Rk6Q4MhG9L6tbxJ_4Vi
 ### Alpha Phase (8 days)
 The goal of this phase is to finish with an in-depth understanding of the theory and practice of your project.  
 ### Beta Phases (12 days)
-TBD
+The goal of this phase is to build, test, analyze and present the most high-fidelity artifact that you can.
 ### Group/Team Size
 The class will be divided into three equal cohorts and then into smaller teams based on the requirements of each project. 
 
