@@ -9,6 +9,8 @@ ___
     2. [Project 02 - BristleBots](courses/stem08/project02-bristlebots.md)
     3. [Project 03 - Water](courses/stem08/project03-water.md)
   - [STEM 10](courses/stem10/stem10.md)
+    1. [Project 01 - Rapid Prototyping](courses/stem10/project01-rapidproto.md)
+    2. [Project 02 - October Projects](courses/stem10/project02-octoprojects.md)
   - [STEM 11/12](courses/stem1112/stem1112.md)
   - [Graphics](courses/graphics/graphics.md)
   - [Game Design](courses/gd/gd.md)
