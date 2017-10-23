@@ -23,7 +23,7 @@ The class will be divided into three equal cohorts and then into smaller teams b
 
 The goal of this assignment is to work together and engage in rapid prototyping to explore the problem.  Using a mix of actual testing and the internet searches, develop the best paper plane and throwing technique possible within a limited time frame.
 possible within a limited time frame.
-- [Individual Research Report](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODU5MDY1ODQ0OVpa/details)
+- [Individual Research Report](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODU5MDY1ODQ0OVpa/details) - GClassroom - (Private, sorry.)
   - [Individual Research - Google Docs](https://docs.google.com/document/d/1ozIPES_fuIjj1WQs60-zvqV5ONaPZinHdqpe0myvLdA/edit)
   - [Individual Research - Design Thinking-Getting Started - Google Docs](https://docs.google.com/document/d/1p0cY4KxZYvvKRsB4b9sdcYOfDo-MJWHPvKp2WvaKBLY/edit)
   - Marking Rubric (How you will be marked) - [October Projects Assignment 1 Rubric - Google Docs](https://docs.google.com/document/d/1f-B885N5wo7hAKbgqWYRtbJuK70e_mxnfxh7H1Py2m4/edit)
