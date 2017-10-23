@@ -5,11 +5,11 @@
 ### Essential Question
 This project, while not a true Capstone, is an opportunity to focus on an area of interest and dig a little deeper, with more guidance than you may have had on previous Capstone projects.  
 ### Projects
-__Civil Focus__: build a detailed, 1/10 scale model with a removable roof of the STEM Lab, as well as a 1/50 scale exterior model of the school
+__[Civil Focus](https://docs.google.com/document/d/1zgB2dqvyUa_nSuTz4OD6IrehghhuIIyUVGPEMvkro6k/edit)__: build a detailed, 1/10 scale model with a removable roof of the STEM Lab, as well as a 1/50 scale exterior model of the school
 
-__Chemistry Focus__:  build a seawater desalination/purification system, exploring the pros and cons of low cost versus low impact versus high effectiveness.
+__[Chemical Focus](https://docs.google.com/document/d/1j7rhVEbWi68TvEC5Ac5SLFIz6SSTTTbfuvBtZc6pgx8/edit)__:  build a seawater desalination/purification system, exploring the pros and cons of low cost versus low impact versus high effectiveness.
 
-__Mechanical Focus__: build a lightweight glider with an innovative feature.
+__[Mechanical Focus](https://docs.google.com/document/d/1oDJ4Rk6Q4MhG9L6tbxJ_4ViGW_sSB4zBiQZomJKJIlw/edit)__: build a lightweight glider with an innovative feature.
 
 ### Alpha Phase (8 days)
 The goal of this phase is to finish with an in-depth understanding of the theory and practice of your project.  
@@ -40,6 +40,8 @@ The goal of this assignment is to learn how to present and submit your project r
 
 #### [Assignment 7: Retrospective & Peer Evaluation (10%): Tuesday, October 31, 2017](https://docs.google.com/document/d/1R3UgHYxnomcyFTWOz8CdC4drYouJ1RaJL7-lRZBiR4M/edit#)
 
+
+
 ## Resources and Links
 ### Google Classroom - (Private, sorry.)
 - [Project02-October Projects](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/t/ODQ0ODY5NDAyM1pa)
@@ -56,3 +58,30 @@ The goal of this assignment is to learn how to present and submit your project r
 - [Chemical - UPDATED 20171015 - Google Docs](https://docs.google.com/document/d/1j7rhVEbWi68TvEC5Ac5SLFIz6SSTTTbfuvBtZc6pgx8/edit)
 - [Mechanical - UPDATED 20171015 - Google Docs](https://docs.google.com/document/d/1oDJ4Rk6Q4MhG9L6tbxJ_4ViGW_sSB4zBiQZomJKJIlw/edit)
 - [STEM 10 October Projects - Google Docs](https://docs.google.com/document/d/1iFg5hruR0AjjmZfiqRWXqb8ARmmXEB73n493TdkT3i4/edit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
