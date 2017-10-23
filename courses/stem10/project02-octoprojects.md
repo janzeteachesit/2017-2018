@@ -21,8 +21,8 @@ The class will be divided into three equal cohorts and then into smaller teams b
 ### Phase 1:  Define and Explore
 #### [Assignment 1: Individual Research \(10%\): Thursday, October 12, 2017](https://docs.google.com/document/d/1lHU_OPjM9HpJaTpTdDIoD2khuSbcRZ3pIUpSpcLsL6E/edit#)
 
-The goal of this assignment is to work together and engage in rapid prototyping to explore the problem.  Using a mix of actual testing and the internet searches, develop the best paper plane and throwing technique possible within a limited time frame.
-possible within a limited time frame.
+The goal of this assignment is to ... 
+
 - [Individual Research Report](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODU5MDY1ODQ0OVpa/details) - GClassroom - (Private, sorry.)
   - [Individual Research - Google Docs](https://docs.google.com/document/d/1ozIPES_fuIjj1WQs60-zvqV5ONaPZinHdqpe0myvLdA/edit)
   - [Individual Research - Design Thinking-Getting Started - Google Docs](https://docs.google.com/document/d/1p0cY4KxZYvvKRsB4b9sdcYOfDo-MJWHPvKp2WvaKBLY/edit)
@@ -30,15 +30,24 @@ possible within a limited time frame.
 
 
 #### [Assignment 2: Group Quiz \(5%\): Tuesday, October 25, 2017](https://docs.google.com/document/d/13wP7RZVC6xivBS4CAYdrS30v3OYnJAvtdIaa_DRwJwA/edit#)
-The goal of this assignment is to learn how to make and submit a pdf document of your design to the Google Classroom.
+
+The goal of this assignment is to ...
+
 ### Phase 2:  Plan and Build
 #### [Assignment 3: Group Proposal \(20%\): Wednesday, October 18, 2017](https://docs.google.com/document/d/1Mj_tsFBRjE9Cn8OOsFJU0K-YBIk0wkgAh_qf4Akec7Y/edit#)
-The goal of this assignment is to test and measure the quality of your final design.
+
+The goal of this assignment is to learn how to make and submit a pdf document of your design to the Google Classroom.
+
 ### Phase 3:  Test and Analyze
 
 #### [Assignment 4: Artifact Testing \(25%\): Wednesday, October 25, 2017](https://docs.google.com/document/d/1Yt490O2Php4pQlFdrNX4grYYQfJcJbPPaxeP5IaUeiU/edit#heading=h.ut0fiebf5iei)
+
+The goal of this assignment is to test and measure the quality of your final design.
+
 #### [Assignment 5:  Final Test \(10%\): Thursday, October 26, 2017](https://docs.google.com/document/d/1obz5TPJM9ZeNXPxR48BnSV25LaDquL7Z8-N6d1dKevA/edit#)
-The goal of this assignment is to reflect on what you’ve learned about the project cycle and effective group work.
+
+The goal of this assignment is to ...
+
 ### Phase 4:  Report and Reflect
 #### [Assignment 6: Final Presentation (20%): Sunday, October 29, 2017](https://docs.google.com/document/d/1gS1tVH8Y9qhJLD3L2qCcburWDsiMsHpXmymjheu9_JU/edit#)
 
@@ -46,6 +55,7 @@ The goal of this assignment is to learn how to present and submit your project r
 
 #### [Assignment 7: Retrospective & Peer Evaluation (10%): Tuesday, October 31, 2017](https://docs.google.com/document/d/1R3UgHYxnomcyFTWOz8CdC4drYouJ1RaJL7-lRZBiR4M/edit#)
 
+The goal of this assignment is to reflect on what you’ve learned about the project cycle and effective group work.
 
 
 ## Resources and Links
