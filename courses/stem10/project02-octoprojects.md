@@ -22,6 +22,12 @@ The class will be divided into three equal cohorts and then into smaller teams b
 #### [Assignment 1: Individual Research \(10%\): Thursday, October 12, 2017](https://docs.google.com/document/d/1lHU_OPjM9HpJaTpTdDIoD2khuSbcRZ3pIUpSpcLsL6E/edit#)
 
 The goal of this assignment is to work together and engage in rapid prototyping to explore the problem.  Using a mix of actual testing and the internet searches, develop the best paper plane and throwing technique possible within a limited time frame.
+possible within a limited time frame.
+- [Individual Research Report](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODU5MDY1ODQ0OVpa/details)
+  - [Individual Research - Google Docs](https://docs.google.com/document/d/1ozIPES_fuIjj1WQs60-zvqV5ONaPZinHdqpe0myvLdA/edit)
+  - [Individual Research - Design Thinking-Getting Started - Google Docs](https://docs.google.com/document/d/1p0cY4KxZYvvKRsB4b9sdcYOfDo-MJWHPvKp2WvaKBLY/edit)
+  - Marking Rubric (How you will be marked) - [October Projects Assignment 1 Rubric - Google Docs](https://docs.google.com/document/d/1f-B885N5wo7hAKbgqWYRtbJuK70e_mxnfxh7H1Py2m4/edit)
+
 
 #### [Assignment 2: Group Quiz \(5%\): Tuesday, October 25, 2017](https://docs.google.com/document/d/13wP7RZVC6xivBS4CAYdrS30v3OYnJAvtdIaa_DRwJwA/edit#)
 The goal of this assignment is to learn how to make and submit a pdf document of your design to the Google Classroom.
@@ -47,16 +53,10 @@ The goal of this assignment is to learn how to present and submit your project r
 - [Project02-October Projects](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/t/ODQ0ODY5NDAyM1pa)
 - [2017-2018 projects](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/sa/NzY0Mzg3MjI4Nlpa/details)
 - [What project do you want to work on?](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/mc/ODQ0ODY3ODgwNFpa/details)
-- [Individual Research Report](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODU5MDY1ODQ0OVpa/details)
 - [Group Proposal](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa/a/ODY3MzQ1NTYxOVpa/details)
 
 ### GDocs
-- [Individual Research - Google Docs](https://docs.google.com/document/d/1ozIPES_fuIjj1WQs60-zvqV5ONaPZinHdqpe0myvLdA/edit)
-- [October Projects Assignment 1 Rubric - Google Docs](https://docs.google.com/document/d/1f-B885N5wo7hAKbgqWYRtbJuK70e_mxnfxh7H1Py2m4/edit)
-- [Individual Research - Design Thinking-Getting Started - Google Docs](https://docs.google.com/document/d/1p0cY4KxZYvvKRsB4b9sdcYOfDo-MJWHPvKp2WvaKBLY/edit)
-- [Civil - UPDATED 20171015 - Google Docs](https://docs.google.com/document/d/1zgB2dqvyUa_nSuTz4OD6IrehghhuIIyUVGPEMvkro6k/edit)
-- [Chemical - UPDATED 20171015 - Google Docs](https://docs.google.com/document/d/1j7rhVEbWi68TvEC5Ac5SLFIz6SSTTTbfuvBtZc6pgx8/edit)
-- [Mechanical - UPDATED 20171015 - Google Docs](https://docs.google.com/document/d/1oDJ4Rk6Q4MhG9L6tbxJ_4ViGW_sSB4zBiQZomJKJIlw/edit)
+
 - [STEM 10 October Projects - Google Docs](https://docs.google.com/document/d/1iFg5hruR0AjjmZfiqRWXqb8ARmmXEB73n493TdkT3i4/edit)
 
 
