@@ -1,12 +1,13 @@
 # Paper Airplanes
-## [Introduction to STEM](https://docs.google.com/document/d/1oD_h4z7oxeRattlU86DmdEvN2HKOC5RMuwxUDq12obE/edit?usp=sharing)
+## [Introduction to Fast Prototyping](https://docs.google.com/document/d/1xkPN17KlFTP6lF0Dnyiq68j48HCBeUcRSPYE9v8EK1Y/edit?usp=sharing)
 ### September 2017
 
-Welcome to STEM!
+Welcome back!
 
-The purpose of this first project is to introduce you to how our STEM works.  By the end of this you should be familiar with the basic stages of a project, as well as the tools we commonly use.
+_The purpose of this first project is to review prototyping in STEM works.  By the end of this you should be re-familiarized with the basic stages of a project, as well as the tools we commonly use._
+
 ### The Project 
-You must design a paper airplane that flies as far as possible on a single throw.  The plane must be made of a single piece of  8.5” x 11” printer paper.  You can modify the paper in any way you want with cuts and folds, but you may not add anything to the paper (weights, tape, etc.). 
+_You must design a paper airplane that flies as far as possible on a single throw.  The plane must be made of a single piece of  8.5” x 11” printer paper.  You can modify the paper in any way you want with cuts and folds, but you may not add anything to the paper (tape, weights, etc.)._
 
 ![Paper Airplane By Ushakaron (Own work) [CC0], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paper_Airplane.png/229px-Paper_Airplane.png)
 
