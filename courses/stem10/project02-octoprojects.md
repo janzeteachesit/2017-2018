@@ -69,6 +69,9 @@ The goal of this assignment is to reflect on what you’ve learned about the pro
 
 - [STEM 10 October Projects - Google Docs](https://docs.google.com/document/d/1iFg5hruR0AjjmZfiqRWXqb8ARmmXEB73n493TdkT3i4/edit)
 
+### GitHub
+- [STEM 10: October Projects](https://github.com/janzeteachesit/2017-2018/blob/master/courses/stem10/project02-octoprojects.md)
+
 
 
 
