@@ -10,7 +10,9 @@
 - [Welcome to the Glitch BETA](https://glitch.com/edit/#!/high-carbon?path=README.md:1:)
 
 ### Make (and host) a website
-Like [janze-test-website](https://janze-test-website.glitch.me).  [janzeteachesit's profile](https://glitch.com/@janzeteachesit) at Glicth.
+- Like [janze-test-website](https://janze-test-website.glitch.me).  
+- [Remix this project](https://glitch.com/edit/#!/roasted-death) 
+- [janzeteachesit's profile](https://glitch.com/@janzeteachesit) at Glicth.
 
 ### Make (and host) an app
 - [Building a Contentful Slack bot in the cloud with Gomix](https://www.contentful.com/blog/2016/12/20/building-a-contentful-slack-bot-in-the-cloud-with-gomix/)
