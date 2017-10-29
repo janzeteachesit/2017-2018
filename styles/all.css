@@ -67,8 +67,9 @@ hr {
 }
 
 .image-wrapper {
+    float: left 0px
 /*    text-align: center; 
-    padding: 2px; */
+    padding: 2px; */ 
 }
 
 .col2 {
