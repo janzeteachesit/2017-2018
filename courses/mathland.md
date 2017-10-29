@@ -11,6 +11,7 @@
 - Real Numbers
 - pi, e
   - [An Intuitive Guide To Exponential Functions & e - Better Explained](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
+
 ### Operations
 - Arithmetic
   - [Rethinking Arithmetic: A Visual Guide - Better Explained](https://betterexplained.com/articles/rethinking-arithmetic-a-visual-guide/)
@@ -19,6 +20,7 @@
   - [Techniques for Adding the Numbers 1 to 100 - Better Explained](https://betterexplained.com/articles/techniques-for-adding-the-numbers-1-to-100/)
 - Ratios & Proportional Reasoning
   - [Understand Ratios with “Oomph” and “Often” - Better Explained](https://betterexplained.com/articles/ratio-oomph/)
+
 ### Spaces
 - Measurement
   - [How to Develop a Sense of Scale - Better Explained](https://betterexplained.com/articles/how-to-develop-a-sense-of-scale/)
@@ -32,6 +34,7 @@
 - Position & Direction
 - Trigonemetry
   - [How To Learn Trigonometry Intuitively - Better Explained](https://betterexplained.com/articles/intuitive-trigonometry/)
+
 ### Structures
 - Algebra
   - [Understanding Algebra: Why do we factor equations? - Better Explained](https://betterexplained.com/articles/understanding-algebra-why-do-we-factor-equations/)
@@ -40,18 +43,22 @@
 - Number Theory
 - Matrices
 - Discrete Mathematics
+
 ### Change
 - Calculus
+
 ### Origins
 - Civilizations
   - [A Quirky Introduction To Number Systems - Better Explained](https://betterexplained.com/articles/a-quirky-introduction-to-number-systems/)
 - Zero
 - Negative numbers
 - Notation
+
 ### Foundations
 - Fundamental Rules
 - Axioms
 - Mathematical Logic
+
 ### Applications
 - Computer Science
   - Machine Learning
