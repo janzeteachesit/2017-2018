@@ -1,7 +1,34 @@
 # Mathland
 
 ## Mind (Knowledge) Mapping Math
-
+### Number Systems
+- Cardinal Numbers
+- Natural Numbers
+- Integers
+- arithmetic
+- Prime Numbers
+- Real Numbers
+- pi, exponents
+### Spaces
+- Geometry
+  - 2D
+  - Line
+  - 3D
+- Pythagoras
+- Trigonemetry
+### Structures
+- Algebra
+- Slope
+- Linear Algebra
+### Changes
+- 
+### Origins
+- Civilizations
+- Zero
+- Negative numbers
+- Notation
+### Foundations
+### Applications
 
 ## Not in the Seymour Papert sense
 
