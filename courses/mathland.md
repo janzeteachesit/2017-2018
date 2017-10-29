@@ -12,3 +12,5 @@
 
 [logo-eye-open]: /assets/images/eye_open_font_awesome-16x16.png
 [logo-eye-close]: /assets/images/eye_close_font_awesome-16x16.png
+[logo-eye-open]: {{ "/assets/images/eye_open_font_awesome-16x16.png" }}
+
