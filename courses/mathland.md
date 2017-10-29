@@ -4,6 +4,7 @@
 ### Number Systems
 - Cardinal Numbers
 - Natural Numbers
+  - [Fun With Modular Arithmetic - Better Explained](https://betterexplained.com/articles/fun-with-modular-arithmetic/)
 - Integers
 - Prime Numbers
   - [Another Look at Prime Numbers - Better Explained](https://betterexplained.com/articles/another-look-at-prime-numbers/)
@@ -13,6 +14,7 @@
 ### Operations
 - Arithmetic
   - [Rethinking Arithmetic: A Visual Guide - Better Explained](https://betterexplained.com/articles/rethinking-arithmetic-a-visual-guide/)
+  - [Learning How to Count \(Avoiding The Fencepost Problem\) - Better Explained](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
 - Estimation
   - [Techniques for Adding the Numbers 1 to 100 - Better Explained](https://betterexplained.com/articles/techniques-for-adding-the-numbers-1-to-100/)
 - Ratios & Proportional Reasoning
@@ -22,6 +24,7 @@
   - [How to Develop a Sense of Scale - Better Explained](https://betterexplained.com/articles/how-to-develop-a-sense-of-scale/)
 - Geometry (Dimesion & Shape)
   - 2D
+    - [Surprising Patterns in the Square Numbers - Better Explained](https://betterexplained.com/articles/surprising-patterns-in-the-square-numbers-1-4-9-16/)
   - Line
   - 3D
 - Pythagoras
@@ -41,6 +44,7 @@
 - Calculus
 ### Origins
 - Civilizations
+  - [A Quirky Introduction To Number Systems - Better Explained](https://betterexplained.com/articles/a-quirky-introduction-to-number-systems/)
 - Zero
 - Negative numbers
 - Notation
