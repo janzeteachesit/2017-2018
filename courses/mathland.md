@@ -6,25 +6,35 @@
 - Natural Numbers
 - Integers
 - Prime Numbers
+  - [Another Look at Prime Numbers - Better Explained](https://betterexplained.com/articles/another-look-at-prime-numbers/)
 - Real Numbers
-- pi, exponents
+- pi, e
+  - [An Intuitive Guide To Exponential Functions & e - Better Explained](https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/)
 ### Operations
+- Arithmetic
+  - [Rethinking Arithmetic: A Visual Guide - Better Explained](https://betterexplained.com/articles/rethinking-arithmetic-a-visual-guide/)
 - Estimation
+  - [Techniques for Adding the Numbers 1 to 100 - Better Explained](https://betterexplained.com/articles/techniques-for-adding-the-numbers-1-to-100/)
 - Ratios & Proportional Reasoning
+  - [Understand Ratios with “Oomph” and “Often” - Better Explained](https://betterexplained.com/articles/ratio-oomph/)
 ### Spaces
 - Measurement
+  - [How to Develop a Sense of Scale - Better Explained](https://betterexplained.com/articles/how-to-develop-a-sense-of-scale/)
 - Geometry (Dimesion & Shape)
   - 2D
   - Line
   - 3D
 - Pythagoras
+  - [Surprising Uses of the Pythagorean Theorem - Better Explained](https://betterexplained.com/articles/surprising-uses-of-the-pythagorean-theorem/)
 - Position & Direction
 - Trigonemetry
+  - [How To Learn Trigonometry Intuitively - Better Explained](https://betterexplained.com/articles/intuitive-trigonometry/)
 ### Structures
 - Algebra
+  - [Understanding Algebra: Why do we factor equations? - Better Explained](https://betterexplained.com/articles/understanding-algebra-why-do-we-factor-equations/)
 - Slope (y = mx + b)
 - Linear Algebra
-- Nummber Theory
+- Number Theory
 - Matrices
 - Discrete Mathematics
 ### Change
@@ -49,6 +59,8 @@
   - Samples & Experiments
   - Randomness
   - Uncertainty
+  - Permutations & Combinations
+    - [Why do we multiply combinations? - Better Explained](https://betterexplained.com/articles/why-do-we-multiply-combinations/)
 - Statistics
 - Optimization
   - Modeling
