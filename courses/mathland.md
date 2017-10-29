@@ -57,7 +57,7 @@
 
 
 ## Not in the Seymour Papert sense
-What is Seymour Papert's concept of "Mathland"? [Ask Google](https://www.google.ca/search?q=seymour+papert+mathland&rlz=1C1CHBF_enCA700CA700&ei=GHX1WdDnLdPWjwOguIn4DA&start=10&sa=N&biw=1050&bih=1510).  For the familiar, I reccommend [David Ng's Article "Where Seymour Papert Got It Wrong"'(https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1)
+What is Seymour Papert's concept of "Mathland"? [Ask Google](https://www.google.ca/search?q=seymour+papert+mathland&rlz=1C1CHBF_enCA700CA700&ei=GHX1WdDnLdPWjwOguIn4DA&start=10&sa=N&biw=1050&bih=1510).  For the familiar, I reccommend [David Ng's Article "Where Seymour Papert Got It Wrong"](https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1).
 
 ## Notes, Resources and Links
 - [STEM 08 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZ0hyaXM3dl9pbEU): \(private; sorry\)
@@ -78,6 +78,7 @@ What is Seymour Papert's concept of "Mathland"? [Ask Google](https://www.google.
 - [STEM 10 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVNktGZTNESU40WHc): \(private; sorry\)
 - [COMMON CORE MATH 8 - Khan Academy](https://www.khanacademy.org/commoncore/grade-8-G)
 - [Mathematics - Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
+- [Kalid Azad's "Better Explained"](https://betterexplained.com/archives/)
 - [Skills available for British Columbia grade 8 math curriculum - IXL](https://ca.ixl.com/standards/british-columbia/math/grade-8)
 - ![The Map of Mathematics](https://i.imgur.com/27b2z8K.jpg)
 - ![Fields of Mathematics](http://www.gogeometry.com/education/mathematics_mind_map.gif)
