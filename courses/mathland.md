@@ -8,4 +8,16 @@
 ## Notes, Resources and Links
 - [STEM 08 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZ0hyaXM3dl9pbEU): \(private; sorry\)
 - [Math08-CoreMathKnowledge - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVdG1ocURvZ25VZ2M): \(private; sorry\)
+  - Primes & Divisibility
+  - Integers & Bedmas
+  - Ratios \(Fractions, Deicmals, Percent\)
+  - Roots & Exponents
+  - Unit Conversions
+  - 2D Geometry
+  - Line Geometry
+  - 3D Geometry
+  - Linear Algebra
+  - Roman Numerals & Binary
+  - Graphing Data
+  - Probability
 - [STEM 10 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVNktGZTNESU40WHc): \(private; sorry\)
