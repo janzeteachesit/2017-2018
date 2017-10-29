@@ -7,7 +7,8 @@
 
 ## Notes, Resources and Links
 - [STEM 08 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZ0hyaXM3dl9pbEU): \(private; sorry\)
-- [Math08-CoreMathKnowledge - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVdG1ocURvZ25VZ2M): \(private; sorry\)
+- [Math08-CoreMathKnowledge - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVdG1ocURvZ25VZ2M): \(private; sorry\); 
+  - [Khan Academy connections to Core Math Kowledge - GDoc](https://docs.google.com/a/templeton.vsb.bc.ca/document/d/15cuYA1b0t1rbqUwtXAmGYbcUTBXtg9IN_44adxvVayw/edit?usp=sharing): \(public\)
   - Primes & Divisibility
   - Integers & Bedmas
   - Ratios \(Fractions, Deicmals, Percent\)
