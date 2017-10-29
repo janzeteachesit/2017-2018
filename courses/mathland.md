@@ -9,4 +9,4 @@
 - [STEM 08 - GFolder]()![][logo-eye-open]
 - [STEM 10 - GFolder]()
 
-[logo-eye-open]: /assets/images/eye_open_font_awesome-48x48.png
+[logo-eye-open]: /assets/images/eye_open_font_awesome-16x16.png
