@@ -77,7 +77,7 @@ What is Seymour Papert's concept of "Mathland"? [Ask Google](https://www.google.
 
 ## Notes, Resources and Links
 
-- [Mathland - GFOlder](https://drive.google.com/open?id=0ByvJF_ceaiU9T00zVDVvQlJmME0)
+- [Mathland - GFolder](https://drive.google.com/open?id=0ByvJF_ceaiU9T00zVDVvQlJmME0)
 - [STEM 08 - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVZ0hyaXM3dl9pbEU): \(private; sorry\)
 - [Math08-CoreMathKnowledge - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVdG1ocURvZ25VZ2M): \(private; sorry\); 
   - [Khan Academy connections to Core Math Kowledge - GDoc](https://docs.google.com/a/templeton.vsb.bc.ca/document/d/15cuYA1b0t1rbqUwtXAmGYbcUTBXtg9IN_44adxvVayw/edit?usp=sharing): \(public\)
