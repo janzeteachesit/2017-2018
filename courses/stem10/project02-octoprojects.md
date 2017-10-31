@@ -61,10 +61,21 @@ Produce a video that tells the story of this project that includes the following
 6. Framing considerations: This video is an opportunity to build a portfolio to a depth of work for potential scholarship committees, or post secondary institution broad-based entrance applications. You should produce your video with this audience in mind.
 
 
-#### [Assignment 7: Retrospective & Peer Evaluation (10%): Tuesday, October 31, 2017](https://docs.google.com/document/d/1R3UgHYxnomcyFTWOz8CdC4drYouJ1RaJL7-lRZBiR4M/edit#)
+#### [Assignment 7: Retrospective & Peer Evaluation (10%): Wednesday, November 1, 2017](https://docs.google.com/document/d/1R3UgHYxnomcyFTWOz8CdC4drYouJ1RaJL7-lRZBiR4M/edit#)
 
 The goal of this assignment is to reflect on what you’ve learned about the project cycle and effective group work.
-
+In this evaluation you will reflect on your learning in two parts: 
+##### Part A: Group Evaluation
+For each of your group members, provide a short, confidential evaluation on the following metrics (see next page):
+- Member's name
+- Was a good collaborator (0 to 3)
+- Worked effectively and contributed to the group test (0 to 3)
+- Worked actively on the design and building of the artifact (0 to 4)
+- Anything extra you feel needs to be added?
+##### Part B: Individual Retrospection and Reflection
+Complete questions, Keep/Drop/Add and 250 word written reflection (see next page):
+- Retrospective:  Do you feel like you have made good progress during this project? What lessons have you learned? Keep/Drop/Add
+- Consider your retrospective above and then commit to an area for your personal growth. What did you chose? What actions will you take to improve?
 
 ## Resources and Links
 ### Google Classroom - (Private, sorry.)
