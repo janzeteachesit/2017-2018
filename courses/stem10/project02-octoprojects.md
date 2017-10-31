@@ -52,6 +52,14 @@ The goal of this assignment is to ...
 #### [Assignment 6: Final Presentation (20%): Sunday, October 29, 2017](https://docs.google.com/document/d/1gS1tVH8Y9qhJLD3L2qCcburWDsiMsHpXmymjheu9_JU/edit#)
 
 The goal of this assignment is to learn how to present and submit your project review in a video format.
+Produce a video that tells the story of this project that includes the following elements:
+1. Is 2 - 2.5 minutes in length
+2. Introduction: What was the goal of the project and who was involved?
+3. Results: What did you accomplish? Show the final project in action.
+4. Rationale: Provide an overview of the relevant background research that informed your design. How did you implement that information into your design?
+5. Conclusion: If you were to start over, would you do anything differently? What’s next?
+6. Framing considerations: This video is an opportunity to build a portfolio to a depth of work for potential scholarship committees, or post secondary institution broad-based entrance applications. You should produce your video with this audience in mind.
+
 
 #### [Assignment 7: Retrospective & Peer Evaluation (10%): Tuesday, October 31, 2017](https://docs.google.com/document/d/1R3UgHYxnomcyFTWOz8CdC4drYouJ1RaJL7-lRZBiR4M/edit#)
 
