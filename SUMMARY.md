@@ -12,6 +12,9 @@ ___
     1. [Project 01 - Rapid Prototyping](courses/stem10/project01-rapidproto.md)
     2. [Project 02 - October Projects](courses/stem10/project02-octoprojects.md)
   - [STEM 11/12](courses/stem1112/stem1112.md)
+    1. [Stem Reno](courses/stem1112/stem-reno.md)
+    2. [Solar Tracker](courses/stem1112/solar-tracker.md)
+    3. [Smart Rocket](courses/stem1112/smart-rocket.md)
   - [Graphics](courses/graphics/graphics.md)
   - [Game Design](courses/gd/gd.md)
   - [Journalism](courses/jrn/tssm.md)
@@ -23,6 +26,7 @@ ___
   - [CSL/Rubrics/New Curriculum](inquiry/csl-rubrics.md)
   - [Getting Started with 3D - Elementary](inquiry/elem-3d.md)
   - [Getting Started with Robotics - Elementary](inquiry/elem-robotics.md)
+  - [Getting Started with STEM - Elementary](inquiry/elem-stem.md)
   - [How we Teach Coding (2016-2017](inquiry/how-we-teach-coding.md)
 
 - [About](about.md)
