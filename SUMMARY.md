@@ -15,20 +15,21 @@ ___
     1. [Stem Reno](courses/stem1112/stem-reno.md)
     2. [Solar Tracker](courses/stem1112/solar-tracker.md)
     3. [Smart Rocket](courses/stem1112/smart-rocket.md)
+  - [Mathland](courses/mathland.md) - Math for STEM 
   - [Graphics](courses/graphics/graphics.md)
   - [Game Design](courses/gd/gd.md)
   - [Journalism](courses/jrn/tssm.md)
   - [AP CSP](courses/apcsp/apcsp.md)
   - [AP CS A](courses/apcsa/apcsa.md)
   - [Computational Thinking](courses/ct/ct.md)
-  - [Mathland](courses/mathland.md) - Math for STEM 
 - [Inquiry](inquiry/inquiry.md)
   - [CSL/Rubrics/New Curriculum](inquiry/csl-rubrics.md)
   - [Getting Started with 3D - Elementary](inquiry/elem-3d.md)
   - [Getting Started with Robotics - Elementary](inquiry/elem-robotics.md)
   - [Getting Started with STEM - Elementary](inquiry/elem-stem.md)
   - [How we Teach Coding (2016-2017](inquiry/how-we-teach-coding.md)
-
+- [Writing](writing.md)
+  - [STEM Staff Handbook](stem-staff-handbook.md)
 - [About](about.md)
   - [Tools](tools/tools.md)
     - [GitBook](tools/gitbook.md)
