@@ -5,8 +5,8 @@ ___
 ## Projects
 1. [Project 01 - Rapid Prototyping](project01-rapidproto.md)
 2. [Project 02 - October Projects](project02-octoprojects.md)
-<!-- 3. [Project 03 - Water](project03-water.md)
--->
+3. [Project 02 - October Projects](project03-stem-reno-part-deux.md)
+
 
 ## Notes, Resources and Links
 - [STEM10-Janze 20172018 - GClass](https://classroom.google.com/u/0/c/NzQyNzAwNDgzMFpa) - only works for students
