@@ -2,6 +2,8 @@
 
 ## Notes, Resources and Links
 - [2017-12 Raspberry Pi robotics](https://docs.google.com/document/d/1BhnuA6RVl1wkTDt5Q9Ymvvd6pbh0fWNB0F99u3jQWcg/edit?usp=sharing)
+- [Getting Started with Raspberry Pi Robotics - Google Docs](https://docs.google.com/document/d/1q3sZ8MRBDyIldk0Ew_Xcf6x_AQoupxRcncgkj-t8bzs/edit#heading=h.icdtsgn17w16)
+- [Raspberry Pi Setup - Google Docs](https://docs.google.com/document/d/1g2TAsQOINAFL3nnbdM3OqL4vp7ECdqlBCe-QZyyXBZo/edit#heading=h.bsd610q8ultf)
 
 ### Roving Rover
 - [Design Doc Phase 3 PROJECT LEAD RESPONSIBLE - Google Docs](https://docs.google.com/document/d/1DjiszWjvwMxUUeLMRbZQjkT6Kz7pCQo2GRZ97d-7BpM/edit)
@@ -11,15 +13,13 @@
 - [Learn RasPi w Linux - Peter Mem - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVeUFuV2tlSENFb2s/view)
 - [Mastering the RasPi - Warren Ga - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVM29rOUFWdEpFOUE/view)
 - [Make a Raspberry Pi-Controlled Robot - Wolfram Donat - Make.pdf - Google Drive](https://drive.google.com/file/d/0BxT7vWnQAXh4VzhUak5vRGE2UFE/view)
-- [Getting Started with Raspberry Pi Robotics - Google Docs](https://docs.google.com/document/d/1q3sZ8MRBDyIldk0Ew_Xcf6x_AQoupxRcncgkj-t8bzs/edit#heading=h.icdtsgn17w16)
 - [Raspberry Pi - Maik Schmidt - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVbE93LUNtZzc5ejA/view)
+- [Make a Raspberry Pi-Controlled - Make.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVnpDSlF6TUt1VGc/view)
+- [Raspberry Pi and ROS - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVN2pkWXpnSTBtQlE/view)
 ### Tutorials
 - [Raspberry Pi Self Driving Car with Deep Learning – Marius Slavescu – Medium.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVb3F1XzNzN184Wlk/view)
 - [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVURpZ05vbGZWMTA/view)
 - [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVMlJ3cjFGLWJhZU0/view)
-- [Raspberry Pi Setup - Google Docs](https://docs.google.com/document/d/1g2TAsQOINAFL3nnbdM3OqL4vp7ECdqlBCe-QZyyXBZo/edit#heading=h.bsd610q8ultf)
-- [Make a Raspberry Pi-Controlled - Make.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVnpDSlF6TUt1VGc/view)
-- [Raspberry Pi and ROS - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVN2pkWXpnSTBtQlE/view)
 - [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVeG9GMGp0RUVaYW8/view)
 - [Building-robots-with-Raspberry-Pi-and-Python.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVaXdrOTVHTF96NUk/view)
 - [CapstoneProjectPlan.pdf - Google Drive](https://drive.google.com/file/d/0B9NR-ELrNVGid1RCYlJ4NWhwZkk/view)
