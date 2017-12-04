@@ -30,6 +30,7 @@ ___
   - [How we Teach Coding (2016-2017](inquiry/how-we-teach-coding.md)
 - [Writing](writing/writing.md)
   - [STEM Staff Handbook](writing/stem-staff-handbook.md)
+  - [Month to Master](writing/month-to-master.md)
 - [About](about.md)
   - [Tools](tools/tools.md)
     - [GitBook](tools/gitbook.md)
