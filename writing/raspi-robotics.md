@@ -1,18 +1,21 @@
 # 2017-12 Raspberry Pi robotics
 
-Notes, Resources and Links
+## Notes, Resources and Links
 - [2017-12 Raspberry Pi robotics](https://docs.google.com/document/d/1BhnuA6RVl1wkTDt5Q9Ymvvd6pbh0fWNB0F99u3jQWcg/edit?usp=sharing)
-- [Search results - Google Drive](https://drive.google.com/drive/search?q=raspberry%20pi)
+
+### Roving Rover
 - [Design Doc Phase 3 PROJECT LEAD RESPONSIBLE - Google Docs](https://docs.google.com/document/d/1DjiszWjvwMxUUeLMRbZQjkT6Kz7pCQo2GRZ97d-7BpM/edit)
-- [Learn Electronics with Raspberr - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVQkp5SkFYTnVZSkU/view)
-- [Raspberry Pi Self Driving Car with Deep Learning – Marius Slavescu – Medium.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVb3F1XzNzN184Wlk/view)
-- [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVURpZ05vbGZWMTA/view)
+- [Design Documents All Phases - Google Docs](https://docs.google.com/document/d/1NrS-Um71Ayq6Pt0EnIWhuUk1k6kg6BVSth3Rpg9mQfM/edit)
+### Texts
+- [Learn Electronics with Raspberry - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVQkp5SkFYTnVZSkU/view)
 - [Learn RasPi w Linux - Peter Mem - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVeUFuV2tlSENFb2s/view)
 - [Mastering the RasPi - Warren Ga - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVM29rOUFWdEpFOUE/view)
-- [Design Documents All Phases - Google Docs](https://docs.google.com/document/d/1NrS-Um71Ayq6Pt0EnIWhuUk1k6kg6BVSth3Rpg9mQfM/edit)
 - [Make a Raspberry Pi-Controlled Robot - Wolfram Donat - Make.pdf - Google Drive](https://drive.google.com/file/d/0BxT7vWnQAXh4VzhUak5vRGE2UFE/view)
 - [Getting Started with Raspberry Pi Robotics - Google Docs](https://docs.google.com/document/d/1q3sZ8MRBDyIldk0Ew_Xcf6x_AQoupxRcncgkj-t8bzs/edit#heading=h.icdtsgn17w16)
 - [Raspberry Pi - Maik Schmidt - Raspberry Pi.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVbE93LUNtZzc5ejA/view)
+### Tutorials
+- [Raspberry Pi Self Driving Car with Deep Learning – Marius Slavescu – Medium.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVb3F1XzNzN184Wlk/view)
+- [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVURpZ05vbGZWMTA/view)
 - [Instructables.com - Raspberry P - Instructables.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVMlJ3cjFGLWJhZU0/view)
 - [Raspberry Pi Setup - Google Docs](https://docs.google.com/document/d/1g2TAsQOINAFL3nnbdM3OqL4vp7ECdqlBCe-QZyyXBZo/edit#heading=h.bsd610q8ultf)
 - [Make a Raspberry Pi-Controlled - Make.pdf - Google Drive](https://drive.google.com/file/d/0BysMfTbvAUUVVnpDSlF6TUt1VGc/view)
