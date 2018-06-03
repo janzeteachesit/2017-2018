@@ -1,5 +1,5 @@
 # 2017-2018
-## Documenting the 2017-2018 school year. 
+## Retrospective for the 2017-2018 school year. 
 
 ### [\(Summary of\) What's Inside ](SUMMARY.md)
 
